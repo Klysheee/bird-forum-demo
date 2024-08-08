@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://papik.pro/uploads/posts/2021-11/1636595402_17-papik-pro-p-foni-risunki-ptitsi-17.jpg'); /* URL изображения с птицами */
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff; /* Белый цвет текста для лучшей читаемости на фоне */
+}
+
+header, footer {
+    background-color: #000; /* Черный фон для верхней и нижней разметки */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7); /* Полупрозрачный черный фон */
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    margin: 0 0 10px 0;
+}
+
+p {
+    margin: 0 0 20px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #fff; /* Белая рамка вокруг изображений */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Тень для изображений */
+}
+
